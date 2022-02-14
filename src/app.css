@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background: #fceac5;
+}
+.links {
+  margin: 0 15px;
+  color: green;
+}
+.photocroisant {
+  max-width: 700px;
+  margin: 18px auto;
+  border-radius: 10px;
+}
